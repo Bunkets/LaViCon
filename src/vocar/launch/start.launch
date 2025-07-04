@@ -1,0 +1,12 @@
+<launch>
+  <!-- Launch NDT Localizer -->
+  <include file="$(find ndt_localizer)/launch/ndt_localizer.launch" />
+  <!-- Launch Way Following -->
+  <include file="$(find ndt_localizer)/launch/way_following.launch" />
+
+    <!-- Run ndt_pose_tf.py as a node -->
+  <node pkg="ndt_localizer" type="ndt_pose_tf.py" name="ndt_pose_tf" output="screen" />
+  <!-- <node pkg="vocar" type="voice_recognition.py" name="voice_recognition" output="screen" /> -->
+  <!-- <node pkg="vocar" type="voice_parse.py" name="voice_controller" output="screen" /> -->
+   -->
+</launch>

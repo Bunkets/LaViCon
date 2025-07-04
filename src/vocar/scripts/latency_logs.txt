@@ -1,0 +1,100 @@
+keep going forward -> 0.611s
+keep backing up -> 0.632s
+back -> 0.519s
+go forward now -> 0.540s
+maybe just keep going ahead -> 0.633s
+time to move forward -> 0.480s
+move forward -> 0.538s
+keep going -> 0.852s
+go ahead -> 0.844s
+just go forward now -> 0.582s
+start going -> 0.679s
+go go go -> 0.591s
+do you mind hatching forward please -> 0.598s
+could you please continue moving ahead -> 0.458s
+move straight now -> 0.612s
+yeah just keep going -> 0.632s
+please keep going ahead -> 0.445s
+it go a bit more forward -> 0.585s
+let's keep it moving -> 0.468s
+left turn up ahead -> 0.653s
+go left now -> 0.672s
+veer left -> 1.022s
+how can you go faster -> 0.488s
+slow down -> 0.455s
+go slow please -> 0.623s
+let's go make some food -> 0.474s
+meet me downstairs -> 0.615s
+stop -> 0.470s
+take a break -> 0.440s
+wait -> 0.428s
+could you back up for a sec -> 0.442s
+move backwards -> 0.463s
+reverse -> 0.703s
+go to the restroom -> 0.601s
+go to the bathroom -> 0.713s
+go to the kitchen -> 0.895s
+let's go see if there's food in the kitchen -> 0.535s
+let's go to the second floor -> 0.503s
+take me to the lobby -> 0.645s
+help me get upstairs -> 0.660s
+can you find tony -> 0.553s
+please locate nathan -> 0.499s
+could you back up -> 0.625s
+could you give me some space -> 0.601s
+could you move ahead a little -> 0.645s
+hard time to move forward -> 0.588s
+keep going straight -> 0.572s
+nice job you can stop now -> 0.528s
+freeze -> 0.569s
+pause -> 0.409s
+right that's enough -> 0.428s
+he take it easy -> 0.474s
+so down more -> 0.580s
+hit the brakes -> 0.465s
+c'mon move faster -> 0.513s
+go faster please -> 0.503s
+can you go any faster -> 1.019s
+come on pick up the speed -> 0.428s
+this is way too slow -> 0.537s
+speed it up -> 0.706s
+pick up the pace -> 0.596s
+hurry up -> 0.593s
+have a right turn up ahead -> 0.598s
+turn right around the corner -> 0.527s
+turn right please -> 0.625s
+turn right very quickly -> 0.514s
+hi pause for a second -> 0.476s
+take a few steps back -> 0.482s
+can you move back -> 0.488s
+backward -> 0.470s
+forward -> 0.610s
+i need a bathroom break -> 1.008s
+c'mon take me to the restroom -> 0.599s
+i need to pee -> 0.435s
+take me to the nearest bathroom -> 2.262s
+i need to wash my hands -> 0.483s
+let's get some snacks -> 0.685s
+let's go wash the dishes -> 0.597s
+go kitchen -> 0.537s
+let's check the oven -> 0.504s
+let's go pick someone up downstairs -> 0.622s
+take me down to the first four -> 1.661s
+stop right there -> 0.431s
+stop what you're doing -> 0.692s
+abort the task -> 0.578s
+take a time out -> 0.497s
+put the brakes on -> 0.482s
+could you stop for a second -> 0.487s
+change direction to the left -> 0.921s
+change direction to the right -> 0.625s
+china robot you're moving too fast -> 0.610s
+accelerate -> 0.474s
+move in reverse -> 0.453s
+had backwards -> 0.485s
+reverse course -> 0.542s
+backtrack a bit -> 0.397s
+back out -> 0.649s
+proceed with caution -> 0.732s
+push on -> 0.484s
+take a stride -> 0.605s

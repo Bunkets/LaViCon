@@ -1,0 +1,11 @@
+<launch>
+    <arg name="file_directory" default="$(find velocity_commands_manager)/velocity_commands_files" />
+    <arg name="file_name" default="cmdvel-default.csv" />
+    <arg name="play_rate" default="20" />
+
+    <!-- Launch the velocity commands player node -->
+    <node name="velocity_commands_player_node" pkg="velocity_commands_manager" type="velocity_commands_player_node" output="screen" />
+    <param name="file_directory" value="$(arg file_directory)" />
+    <param name="file_name" value="$(arg file_name)" />
+    <param name="play_rate" value="$(arg play_rate)" />
+</launch>

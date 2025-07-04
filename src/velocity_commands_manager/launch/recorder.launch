@@ -1,0 +1,13 @@
+<launch>
+    <arg name="file_directory" default="$(find velocity_commands_manager)/velocity_commands_files" />
+    <arg name="file_name" default="cmdvel" />
+    <arg name="extension" default="csv" />
+    <arg name="record_rate" default="20" />
+
+    <!-- Launch the velocity commands recorder node -->
+    <node name="velocity_commands_recorder_node" pkg="velocity_commands_manager" type="velocity_commands_recorder_node" output="screen" />
+    <param name="file_directory" value="$(arg file_directory)" />
+    <param name="file_name" value="$(arg file_name)" />
+    <param name="extension" value="$(arg extension)" />
+    <param name="record_rate" value="$(arg record_rate)" />
+</launch>

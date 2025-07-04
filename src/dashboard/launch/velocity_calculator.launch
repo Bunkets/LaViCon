@@ -1,0 +1,6 @@
+<launch>
+  <arg name="velocity_rate" default="10" />
+  <node pkg="dashboard" name="velocity_calculator" type="velocity_calculator_node" respawn="true" output="screen">
+    <param name="velocity_rate" value="$(arg velocity_rate)" />
+  </node>
+</launch>
