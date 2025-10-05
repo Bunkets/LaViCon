@@ -2,7 +2,7 @@ import openai
 import os
 import time
 
-openai.api_key = "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" # your full key
+openai.api_key = "" 
 
 
 
