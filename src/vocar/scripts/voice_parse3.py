@@ -27,7 +27,7 @@ class GoToNode:
         rospy.init_node('go_to_node')
 
         # OpenAI client setup
-        openai.api_key = "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"
+        openai.api_key = ""
         self.system_prompt = """You are an intent classification assistant for a robot. Given a voice command, your job is to return the correct intent label. Only return the intent, nothing else. However, it is possible that the user input was not intended as a robot voice command. Thus if the voice command does not match any of the intents, output \"NONE\" instead.
 
 Valid intents:
