@@ -182,11 +182,6 @@ killall -9 roscore rosmaster
 docker stop voiceparse yolo_node
 ```
 
-### Key Scripts:
-- voice_recognition.py: Captures audio, uses Vosk for real-time speech-to-text, publishes to /recognized_command
-- voice_parse5.py: Receives text commands, uses JointBERT to extract slots (destinations, objects, obstacles), publishes intents and reference objects, controls robot motion
-- object_detection.py: Runs YOLOv8 on camera feed, publishes detections
-- no_bridge.py: Bridges detection data between Jetson and main computer
 
 ## Contact
 Tony Yang - tony08.morgan@gmail.com
